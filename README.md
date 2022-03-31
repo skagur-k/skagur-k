@@ -28,12 +28,11 @@ fn main(){
             - 🛫 I was born in Cheong Ju, Korea but spent more than half of my life in Shanghai and Hong Kong.\n\
             - 🎓 Bachelor's Degree in *Information Technology* from HK Polytechnic University.\n\
             - 🌏 Native Korean speaker; fluent in English and Mandarin.\n\
-            - ⌛ More than 10 years of computing experience.
-            "),
+            - ⌛ More than 10 years of computing experience."),
         fun_facts: String::from("\n\
             - 💻 I started programming with Java in highschool (2012)\n\
                 - One of the projects was to create a mod for Minecraft 🤣\n\
-            - 📢 My graduation yearbook (2013) message was: 'Hello World, Expect Me.'
+            - 📢 My graduation yearbook (2013) message was: 'Hello World, Expect Me.'\n\
             - 📷 I was in a team of 3 and coordinated several K-events with Korean celebrities after graduating.")
     };
 
