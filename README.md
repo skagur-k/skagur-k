@@ -45,14 +45,14 @@ fn main(){
 Hello World! I am Nam Hyuck Kim 😁
 ```
 
-#### 🧵 Recently_I've_been.md 🧵
+#### 🧵 Recently_I.md 🧵
 
-    > 🔨 Working on a portfolio website. [skagur.dev](https://skagur.dev)
+    > 🔨 've been working on a portfolio website. [skagur.dev](https://skagur.dev)
 
-    > 🔎 Trying to get to the bottom of **TCP/IP** by implementing the protocol in **Rust**
+    > 🔎 've been trying to get to the bottom of **TCP/IP** by implementing the protocol in **Rust**
           - Learning Rust on the way.
 
-    > 🏋️ Working out everyday to stay healthy. (physically+mentally)
+    > 🥳 passed AWS Certified Cloud Practitioner Exam [march 2022] -> Going for the next
 
 #### 🔨 I've worked with 🔨
 
