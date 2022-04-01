@@ -1,5 +1,5 @@
 <div align="center">
-<h3> Hello <𝐕𝐢𝐬𝐢𝐭𝐨𝐫𝐬/>, I am <a href="https://skagur.dev">Nam Hyuck Kim</a></h3>
+     <h3> Hello <𝐕𝐢𝐬𝐢𝐭𝐨𝐫𝐬/>, I am <a href="https://skagur.dev">Nam Hyuck Kim</a>  <sub>(James)</sub></h3>
 </br>
 
 <a href="https://skagur.dev">
@@ -20,6 +20,7 @@ fn main(){
     let me = Developer {
         name: String::from("Nam Hyuck Kim"), //   김남혁
         alias: String::from("skagur"), // 'skagur': ▲ my Korean name typed in English
+        english_name: String::from("James"),
         email: String::from("namhyuck.james@gmail.com"), // Feel free to contact me
         website: String::from("skagur.dev"), // TODO: Work-in-progress
         proactive_and_self_learner: true,
