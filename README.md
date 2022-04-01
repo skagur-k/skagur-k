@@ -1,7 +1,7 @@
 <div align="center">
-<h3> Hello <𝐕𝐢𝐬𝐢𝐭𝐨𝐫𝐬/>, I am <a href="https://skagur.dev">Nam Hyuck Kim</a></h3>
+<h3> Hi, I am <a href="https://skagur.dev">Nam Hyuck Kim</a></h3>
 </br>
-
+<!-- <𝐕𝐢𝐬𝐢𝐭𝐨𝐫𝐬/> -->
 <a href="https://skagur.dev">
 </div>
 
@@ -13,6 +13,8 @@
      src="https://img.shields.io/badge/last%20updated-march%202022%20⬆️-brightgreen"
      alt="skagur.dev">
 </div>
+
+</br>
 
 ```rust
 #![crate_name = "readme-github"] // git-repo: https://github.com/skagur-k/skagur-k/
