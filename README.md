@@ -52,8 +52,7 @@ Hello World! I am Nam Hyuck Kim 😁
 
     > 🔨 've been working on a portfolio website. [skagur.dev](https://skagur.dev)
 
-    > 🔎 've been trying to get to the bottom of **TCP/IP** by implementing the protocol in **Rust**
-          - Learning Rust on the way.
+    > 🔎 've bene studying Rust Programming Language.
 
     > 🥳 passed AWS Certified Cloud Practitioner Exam [march 2022] -> Going for the next
 
