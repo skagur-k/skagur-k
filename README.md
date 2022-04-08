@@ -1,5 +1,5 @@
 <div align="center">
-     <h3> Hello <𝐕𝐢𝐬𝐢𝐭𝐨𝐫𝐬/>, I am <a href="https://skagur.dev">Nam Hyuck Kim</a>  <sub>(James)</sub></h3>
+     <h3>Hi, I am <a href="https://skagur.dev">Nam Hyuck Kim</a>  <sub>(James)</sub></h3>
 </br>
 <!-- <𝐕𝐢𝐬𝐢𝐭𝐨𝐫𝐬/> -->
 <a href="https://skagur.dev">
