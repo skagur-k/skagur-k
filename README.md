@@ -10,7 +10,7 @@
      src="https://img.shields.io/badge/skagur.dev-In%20Progress%20🛠️-yellowgreen"
      alt="skagur.dev"></a>
 <img class="fit-picture"
-     src="https://img.shields.io/badge/last%20updated-march%202022%20⬆️-brightgreen"
+     src="https://img.shields.io/badge/last%20updated-may%202022%20⬆️-brightgreen"
      alt="skagur.dev">
 </div>
 
