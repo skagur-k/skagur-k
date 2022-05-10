@@ -17,49 +17,34 @@
 </br>
 
 ```rust
-#![crate_name = "readme-github"] // git-repo: https://github.com/skagur-k/skagur-k/
 fn main(){
     let me = Developer {
         name: String::from("Nam Hyuck Kim"), //   김남혁
         alias: String::from("skagur"), // 'skagur': ▲ my Korean name typed in English
-        english_name: String::from("James"),
-        email: String::from("namhyuck.james@gmail.com"), // Feel free to contact me
-        website: String::from("skagur.dev"), // TODO: Work-in-progress
-        proactive_and_self_learner: true,
         about_me: String::from("\n\
-            - 😃 Hi, I am a developer from S.Korea.\n\
-            - 🛫 I was born in Cheong Ju, Korea but spent more than half of my life in Shanghai and Hong Kong.\n\
+            - 🛫 Born in Cheong Ju, Korea but spent more than half of my life in Shanghai and Hong Kong.\n\
             - 🎓 Bachelor's Degree in *Information Technology* from HK Polytechnic University.\n\
             - 🌏 Native Korean speaker; fluent in English and Mandarin.\n\
-            - ⌛ More than 10 years of computing experience."),
-        fun_facts: String::from("\n\
-            - 💻 I started programming with Java in highschool (2012)\n\
-                - One of the projects was to create a mod for Minecraft 🤣\n\
-            - 📢 My graduation yearbook (2013) message was: 'Hello World, Expect Me.'\n\
-            - 📷 I was in a team of 3 and coordinated several K-events with Korean celebrities after graduating.")
     };
 
     println!("Hello World! I am {} 😁", &me.name);
 }
 ```
 
-```
-~/skagur-k (main) > cargo run
-Hello World! I am Nam Hyuck Kim 😁
-```
-
 #### 🧵 Recently_I.md 🧵
 
     > 🔨 've been working on a portfolio website. [skagur.dev](https://skagur.dev)
 
-    > 🔎 've bene studying Rust Programming Language.
+    > 🔎 've bene working on studying backends with Spring Boot.
 
     > 🥳 passed AWS Certified Cloud Practitioner Exam [march 2022] -> Going for the next
 
 #### 🔨 I've worked with 🔨
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring_boot-%6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
