@@ -26,8 +26,6 @@ fn main(){
             - 🎓 Bachelor's Degree in *Information Technology* from HK Polytechnic University.\n\
             - 🌏 Native Korean speaker; fluent in English and Mandarin.\n\
     };
-
-    println!("Hello World! I am {} 😁", &me.name);
 }
 ```
 
