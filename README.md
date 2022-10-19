@@ -10,11 +10,17 @@
      src="https://img.shields.io/badge/skagur.dev-In%20Progress%20🛠️-yellowgreen"
      alt="skagur.dev"></a>
 <img class="fit-picture"
-     src="https://img.shields.io/badge/last%20updated-may%202022%20⬆️-brightgreen"
+     src="https://img.shields.io/badge/last%20updated-Oct%202022%20-brightgreen"
      alt="skagur.dev">
 </div>
 
 </br>
+
+```
+https://skagur.dev
+
+https://skaui.skagur.dev
+```
 
 ```rust
 fn main(){
@@ -28,14 +34,6 @@ fn main(){
     };
 }
 ```
-
-#### 🧵 Recently_I.md 🧵
-
-    > 🔨 've been working on a portfolio website. [skagur.dev](https://skagur.dev)
-
-    > 🔎 've bene working on studying backends with Spring Boot.
-
-    > 🥳 passed AWS Certified Cloud Practitioner Exam [march 2022] -> Going for the next
 
 #### 🔨 I've worked with 🔨
 
